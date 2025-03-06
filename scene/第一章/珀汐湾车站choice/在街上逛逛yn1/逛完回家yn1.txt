@@ -1,0 +1,28 @@
+changeBg:home1.jpg;
+:好累，为什么自己要拿这么多行李... -fontSize=default;
+:我确认了反复确认了门牌号，最终停在了这栋房子 -fontSize=default;
+我:……就是这儿了吧？嗯，看上去比想象中好些，也没破得不成样子嘛。 -fontSize=default;
+这墙皮斑驳的感觉，倒是有种旧时光的味道 -fontSize=default -left;
+changeBg:home2.jpg;
+bgm:none;
+:我掏出一把锈迹斑斑的钥匙，走过院子里略微杂乱的灌木，来到正门前 -fontSize=default -id;
+setAnimation:shake -target=bg-main;
+嘶……别卡住啊……拜托，别再给我添麻烦…… -fontSize=default;
+:门锁终于转动，发出“嘎吱”一声刺耳响动。客厅内灰尘浮动，阳光斜射，空气里弥漫着陈旧的味道。 -开门1.mp3 -fontSize=default;
+changeBg:livingroom_morning.jpg -unlockname=新的开始;
+:果然，这里已经空了很久……灰尘一碰就漫天飞 -fontSize=default;
+:哎，也不知道祖父当年在这儿住的时候是什么模样 -fontSize=default;
+:（用手指抚过沙发扶手，轻轻敲了两下） -fontSize=default;
+:还挺结实……看来这房子的骨架也许不错。|就是得准备不少翻修预算吧…… -fontSize=default;
+:我环视一周客厅的环境，突然被书柜上放的东西吸引住了 -fontSize=default -id;
+changeBg:letter.jpg -next;
+setTextbox:hide;
+:嗯？这是什么 -notend -fontSize=medium;
+setTextbox:on;
+我:（轻轻皱眉）‘致后人’……这是……给我的？ -fontSize=default;
+:我犹豫片刻，小心撕开信封，拿出泛黄的纸张读了起来 -fontSize=default;
+intro:亲爱的孩子：|当你读到这封信时，想必我已无法再亲口告诉你这些|这里曾是我年轻时的避风港，也是我心里最宁静的角落。|我希望它同样能带给你力量，在你迷茫或疲倦时，为你点亮一丝温暖。|——祖父 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+我:……原来祖父当年在这里找到了‘避风港’。|也许……这地方在他心目中，远不止一栋房子那么简单。 -fontSize=default;
+changeBg:livingroom_morning.jpg;
+:初来时的疲惫与抵触，仿佛被一丝暖意化开。 -fontSize=default;
+changeScene:第一章/珀汐湾车站choice/开始探索.txt

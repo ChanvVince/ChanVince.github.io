@@ -1,0 +1,10 @@
+changeBg:coffee_shop_night.jpg -next;
+:咕噜咕噜... -gulu.mp3 -fontSize=default -id;
+:家里的菜还有些没吃完，现在应该回家做饭了 -fontSize=small;
+:弹性工作制的好处就是每天只需要工作7小时就可以了，所以就算起晚或者早下班都没关系 -fontSize=default;
+changeBg:coffee_shop_road_night.jpg;
+:下班后，夕阳渐渐西沉，咖啡馆外的街道上灯光开始亮起，空气中弥漫着温暖的晚风。 -fontSize=default;
+看着大家还没下班，貌似自己走了也有些不合群的样子... -fontSize=default;
+:不管了...反正步子已经迈出去了，想那么多干什么 -fontSize=default;
+:感觉自己吃饭也蛮没意思的，那不如？ -fontSize=default;
+choose:邀请莱特一起吃饭:第二章/startyn3choice/回家吃饭yn3lt1choice/邀请莱特yn3lt3.txt|邀请伊诺一起吃饭:第二章/startyn3choice/回家吃饭yn3lt1choice/邀请伊诺yn5lt1.txt|邀请盖德一起吃饭:第二章/startyn3choice/回家吃饭yn3lt1choice/自己吃饭yn3lt1.txt;

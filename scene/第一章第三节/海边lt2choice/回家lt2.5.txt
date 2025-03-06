@@ -1,0 +1,9 @@
+changeBg:restroom_night.jpg;
+:到家躺在床上，我的大脑似乎不听使唤的乱想 -fontSize=default;
+:既然房子需要整修这么久，其实现在有一份工作来缓解经济压力正好 -fontSize=default;
+:最后还是动心了吗，那就明天去咖啡馆再和盖德商量一下吧 -fontSize=default;
+:定好了闹铃我便沉浸在梦乡中 -fontSize=default;
+changeBg:restroom_night_sleep4.jpg -next;
+:在梦中，我和咖啡馆里面的各个成员打成一片，那天，大家都很开心 -fontSize=default;
+intro:好扯|梦终归是梦吧|....... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+callScene:第二章/startlt2.5.txt

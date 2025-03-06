@@ -1,0 +1,5 @@
+changeBg:coffee_shop_morning.jpg -next;
+:我把视频发布在社交媒体上，标题赫然写着“调出生活的温度” -fontSize=default;
+:希望可以获得更多关注度吧 -fontSize=default;
+:发布完作品后，你决定 -fontSize=default -left;
+choose:回到大厅与同事们碰个面:第二章第二节/startchoice/伊诺的酒choice/调出生活的温度choice/回到大厅与同事们碰个面.txt|与盖德讨论下一步的营销策略:第二章第二节/startchoice/伊诺的酒choice/调出生活的温度choice/与盖德讨论下一步的营销策略.txt|悄悄找机会与伊诺聊聊:第二章第二节/startchoice/伊诺的酒choice/调出生活的温度choice/悄悄找机会与伊诺聊聊.txt;

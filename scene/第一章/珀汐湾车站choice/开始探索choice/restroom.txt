@@ -1,0 +1,9 @@
+changeBg:restroom_norming.jpg;
+:打开卧室的房门，烟灰四起，我眯起眼睛，用手挥了挥，咳嗽了两声。 -fontSize=default;
+我:呃……这儿积灰更严重。我蹲下看了看床，床垫也发霉了……不过房间倒挺宽敞。 -fontSize=default;
+:重新站起身，我才被眼前的景象震撼到。 -fontSize=default;
+:没想到这间卧室居然有一整面墙那么大的落地窗，窗外直接就是蔚蓝的海面，这是我从未见过的景象。 -fontSize=default;
+:光是这远距离的观摩就足以令我震撼，珀汐湾的海岸，与我在其他地方见到的不同，蓝色的海面与金黄的沙滩相辅相成，构建出了一幅完美的画卷。 -fontSize=default;
+:这种景象居然是真实存在的吗？看来自己以前还是孤陋寡闻了… -fontSize=default;
+:可能是北方孩子对海的向往吧... -fontSize=default;
+changeScene:第一章/珀汐湾车站choice/开始探索.txt

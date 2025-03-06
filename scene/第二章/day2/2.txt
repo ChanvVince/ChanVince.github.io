@@ -1,0 +1,1 @@
+角色名，留空以继承上句:对话2 -fontSize=default;

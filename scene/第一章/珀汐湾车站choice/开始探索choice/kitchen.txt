@@ -1,0 +1,7 @@
+changeBg:kitchen_norming.jpg;
+:一进厨房，我就听到了“滴答”的水声，找了一下声音的来源，最终我停在了厨房的水管前。 -fontSize=default;
+:我敲了敲眼前生锈的水管。 -滴水.mp3 -fontSize=default;
+我:这水管完全锈了……看来换水管是第一步。不然别说洗菜，洗手都得去外面接水了…… -fontSize=default;
+:我又简单的看了看，除了水的问题以外，并没有什么太大的毛病，回头简单收拾一下就可以了。|哎，不过收拾起来还是很要命就对了 -fontSize=default;
+:我转过身，离开了厨房。 -fontSize=default;
+changeScene:第一章/珀汐湾车站choice/开始探索.txt

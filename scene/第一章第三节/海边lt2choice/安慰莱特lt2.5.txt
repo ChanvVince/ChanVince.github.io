@@ -1,0 +1,33 @@
+changeBg:seanight1.png -next;
+changeFigure:ltsea2.png -next;
+我:怎么了？有什么事让你这么不开心 -fontSize=default;
+:我示意让莱特坐下 -fontSize=default;
+莱特:{rename} -fontSize=default;
+我:我在 -fontSize=default;
+莱特:你有没有一瞬间回想自己的以后，觉得一辈子都望到头的感觉 -fontSize=default;
+我:可能有过吧 -fontSize=default;
+莱特:这种感觉有点像走在一条笔直的公路上，前方没有拐弯，只有缓缓延伸到地平线的尽头。日子按部就班地推移，学业、工作、家庭、衰老……所有的一切都像既定的程序一样 -fontSize=default;
+:莱特说完便长长的呼出了一口气 -fontSize=default;
+我:原来莱特这种满腔热忱的人也会有迷茫的时候啊 -fontSize=default;
+我:哎，其实我现在也和莱特现在想的一样呢 -fontSize=default;
+我:盖德邀请我来咖啡馆工作，但我就算接受了眼前的工作也不知道以后该怎么办，因为我不打算在珀汐湾常住呢 -fontSize=default;
+:我把先前的遭遇跟莱特讲述了一点，他似乎也明白了我来到珀汐湾的真正原因 -fontSize=default;
+我:不过我觉得迷茫是很正常的，尤其当你停下来思考未来的时候，就像站在海边，看着无边无际的大海，不知道该往哪个方向游去。你知道要前进，但不知道哪条路才是“正确的” -fontSize=default;
+我:要有敢于试错的勇气嘛，就像我，我是抱着缓解压力才来到这里的，但其实更多的是想离开错误的轨道 -fontSize=default;
+我:之前我怎么会想到来珀汐湾，世事无常，变化多快呢 -fontSize=default;
+莱特:这么说确实是这样 -fontSize=default;
+:莱特展现出思考的神态，希望我说的话它可以记在心上吧 -fontSize=default;
+莱特:但我希望你可以暂时接受这份工作，阿阳|我觉得你很适合在这里工作 -fontSize=default;
+:莱特突然竖起了大拇指，又恢复他以往开心的样子 -fontSize=default;
+我:为什么这么觉得 -fontSize=default;
+莱特:凭感觉喽 -fontSize=default;
+我:这算是什么理由啊喂 -fontSize=default;
+莱特:正因为自己不能完全适应这里的生活，才要找个工作试试看|说不定这里比城市更适合你 -fontSize=default;
+你也看到了，这里的生活压力和工作压力都这么小，干嘛这么着急离开 -fontSize=default;
+我有事先走了，你好好考虑{rename} -fontSize=default;
+changeFigure:none;
+:我看着莱特远去的背影，心中不由得生起一丝想法 -fontSize=default -id;
+intro:其实生活在珀汐湾|也是个不错的选择吧 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:none;
+setVar:lt=4
+changeScene:第一章第三节/海边lt2choice/回家lt2.5.txt

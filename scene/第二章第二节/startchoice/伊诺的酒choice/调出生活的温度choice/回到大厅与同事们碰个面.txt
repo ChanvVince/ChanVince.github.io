@@ -1,0 +1,32 @@
+changeBg:coffee_shop_morning.jpg;
+:视频发布后，我走出后室，步入咖啡馆宽敞明亮的大厅。 -fontSize=default;
+:大厅里早已热闹起来：晨光透过大窗洒在复古的木质桌椅上，墙角的花卉摆设在微风中摇曳生姿。 -fontSize=default;
+changeFigure:br1.png;
+:贝尔正忙着整理刚出炉的糕点，脸上带着温柔的笑意 -fontSize=default;
+贝尔:早，拍摄的进度如何？ -fontSize=default;
+我:已经拍好了，刚刚上传，虽然现在数据还没出来，但我觉得……这段视频给人的感觉，挺真实的。 -fontSize=default;
+changeFigure:none;
+changeFigure:br1.png -left -transform={"position":{"x":350}};
+:就在这时，莱特从一群顾客中走来，他穿着干净的服务员制服，肩上的围裙上还挂着刚擦拭过的水珠。 -fontSize=default;
+changeFigure:lt1.png -transform={"position":{"x":300}};
+莱特:早啊！今天感觉特别不错，对吧？ -fontSize=default;
+:他拍了拍我的肩膀 -fontSize=default;
+:你随即把手机拿出，打开视频给大家看 -fontSize=default;
+贝尔:伊诺一直很靠谱 -fontSize=default;
+莱特:拍的也很好啊喂，上次盖德用这相机拍我，拍成什么鸟样！ -fontSize=default;
+:看着同事们纷纷点头、微笑，你的内心也随之温暖起来。 -fontSize=default;
+:没想到大家这么喜欢，看来‘调出生活的温度’的主题真的打动了大家。 -fontSize=default;
+changeFigure:选择立绘文件 -next;
+changeFigure:选择立绘文件 -left -next;
+changeFigure:br1.png -left;
+:莱特赶着招呼客人先走一步，贝尔则是拿着手机一直看着 -fontSize=default;
+:他的眼神中满是柔情和敬佩，仿佛要把那一瞬间的专注都记在心里 -fontSize=default;
+:莱特则在远处招呼着 -fontSize=default;
+changeFigure:lt1.png -transform={"position":{"x":350}};
+莱特:下次记得多拍点幕后花絮，别光顾着拍酒，咱们这里的笑话也值钱呢！ -fontSize=default;
+:他的幽默话语引得众人轻笑，气氛顿时变得更加轻松活泼。 -fontSize=default;
+:环顾四周，看着这群与你一起拼搏、共同守护咖啡馆温暖氛围的同事们，心中感到一种难以言喻的归属感。 -fontSize=default;
+:每个人的神态、每句轻松的打趣，都仿佛在告诉你，这不仅仅是个工作场所，更是一个充满情谊和梦想的小社区。 -fontSize=default;
+:在这温馨而忙碌的早晨，我放下手中的手机，与贝尔、莱特并肩站在那被晨光映得温暖的大厅中，感受着团队间真实而细腻的情感交融。你知道，接下来的日子里，这里将继续见证更多温暖、真实且触动人心的故事。 -fontSize=small;
+setVar:lt=9
+setVar:br=3

@@ -1,0 +1,4 @@
+:接下来去哪里看看呢 -fontSize=default -id;
+:（接下来为自由探索环节，请您自由选择选项，接下来会返回当前场景） -fontSize=large -id;
+
+choose:厨房:第一章/珀汐湾车站choice/开始探索choice/kitchen.txt|卧室:第一章/珀汐湾车站choice/开始探索choice/restroom.txt|卫生间:第一章/珀汐湾车站choice/开始探索choice/bathroom.txt|(yn>1)-->结束探索:第一章/珀汐湾车站choice/开始探索choice/收拾卫生.txt|(lt>1)-->结束探索:第一章/珀汐湾车站choice/开始探索choice/拜访lt1.txt;

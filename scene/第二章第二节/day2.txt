@@ -1,0 +1,13 @@
+changeBg:restroom_norming.jpg;
+:第二天清晨，我在微弱的晨光中醒来，窗外飘着几丝残留的雨意，空气中弥漫着一股清新而湿润的气息。 -fontSize=default;
+changeBg:coffee_shop_road_morning.jpg;
+:来到店门前，我伸手按下那把我无数次进出的老门锁，却发现门纹丝不动 -fontSize=default;
+:我拿出手机，拨通了盖德的号码。电话那头传来盖德略显尴尬而温和的声音 -fontSize=default;
+盖德:{name}?有事吗 -fontSize=default;
+我:嗯..今天好像大家都没有来，是休息吗？ -fontSize=default;
+盖德:哎哎哎！{name}，抱歉抱歉，今天是周二，咖啡馆店休，我忘了提前通知你了。 -fontSize=default;
+盖德:害的你白跑一趟，真是麻烦你了 -fontSize=default;
+:盖德的话语透露出他在电话那头的尴尬 -fontSize=default;
+我:没事没事 -fontSize=default;
+我:我... -fontSize=default;
+choose:漫步小镇:第二章第二节/day2choice/漫步小镇.txt|回家补眠:第二章第二节/day2choice/回家补眠.txt|收拾屋子:第二章第二节/day2choice/收拾屋子.txt;

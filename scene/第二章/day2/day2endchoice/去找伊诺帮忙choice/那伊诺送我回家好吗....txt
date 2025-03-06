@@ -1,0 +1,35 @@
+changeBg:coffee_shop_night.jpg -next;
+changeFigure:yn3.png -next;
+我:那伊诺送我回家...可以吗.... -fontSize=default;
+我:这样你也不会淋到雨了...对吗 -fontSize=default;
+:我试图用这样的语言哄骗他，哄骗自己 -fontSize=default;
+intro:可恶|明明...就是想和伊诺一起走啊... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:伊诺的脸上浮现出一抹欣慰的笑容，他轻轻点头 -fontSize=default;
+伊诺:那就留下吧。我还没有下班，{rename} -fontSize=default;
+:外面的雨声依旧淅淅沥沥，而咖啡馆内却显得格外温暖。你们并肩坐在靠窗的位置，透过雨幕，望着远处模糊的街景。 -fontSize=default;
+changeFigure: -next;
+changeBg:none;
+pixiPerform:rain;
+bgm:rainy.MP3;
+:这一刻，雨天、伞下... -fontSize=default;
+我:谢谢伊诺可以送我回家 -fontSize=default;
+伊诺:嗯 -fontSize=default;
+:我们两个挤在同一个伞下...伊诺似乎是怕雨把我淋湿，自己的一半身子都暴露在雨中 -fontSize=default;
+:这一路的我们都很少言 -fontSize=default;
+:也正是没有说话的原因，我更能感受到伊诺的呼吸和体温... -fontSize=default;
+changeBg:livingroom_night.jpg -next;
+pixiInit;
+:伊诺把我送回家后便原路折返回去 -fontSize=default;
+:回到家，我用毛巾擦拭着自己的身体 -fontSize=default;
+:连在雨伞正中心的我都已经湿透了 -fontSize=default;
+intro:那...|伊诺呢 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:糟糕...|我貌似真的喜欢上他了... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setVar:yn=14
+:原来人与人之间的关系时会在一瞬间拉近的 -fontSize=default;
+:人生真是奇妙，我从来都没有想过，会因为一栋房子，开启一段新生活 -fontSize=default;
+:更没想到会在这里和别人产生羁绊 -fontSize=default;
+:... -fontSize=default;
+changeBg:restroom_night.jpg;
+:我脱下湿透了的衣物放在洗衣机后便回去睡觉了 -fontSize=default;
+bgm:none;
+changeScene:第二章第二节/start.txt

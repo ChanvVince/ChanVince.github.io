@@ -1,0 +1,9 @@
+:一转眼已经到了下班的时间 -fontSize=default -center;
+changeBg:coffee_shop_road_night.jpg;
+pixiPerform:rain;
+:步出门外的一瞬间，天空骤然暗沉下来，乌云压得极低，紧接着，大雨倾泻而下 -fontSize=default;
+:雨点猛烈地拍打在人行道上，也打湿了你的身影。你站在门口，望着滂沱大雨，心中涌上一丝无奈与焦虑 -fontSize=default;
+我:哎，只能回店里想想办法了 -fontSize=default;
+:在这时，你脑海中迅速闪过三个选择： -fontSize=default;
+pixiInit;
+choose:[gd>1]->向盖德借一把伞:选择场景文件|[lt>1]->等莱特一起回家:选择场景文件|[yn>7]->去找伊诺帮忙:第二章/day2/day2endchoice/去找伊诺帮忙.txt;

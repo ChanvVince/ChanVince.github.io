@@ -1,0 +1,17 @@
+changeBg:restroom_norming.jpg;
+bgm:home1.mp3;
+:清晨的珀汐湾，恍若一幅静谧的画卷。海风温柔地拂过，带着咸湿的气息 -fontSize=default;
+仿佛是大海的呢喃，轻轻触及每一片叶子、每一根草茎 -fontSize=default;
+playEffect:早晨环境音1.MP3;
+:空气清新得让人心头一暖，阳光从天际轻柔洒下，金色的光辉在海面上跳跃，波光粼粼，仿佛无数颗流星划过静谧的水面，留下片刻的辉煌 -fontSize=default;
+:远远的，早起的居民在自己的小屋前扫着院子，偶尔有一两声狗吠打破这片宁静，传来的是一种熟悉的亲切感。 -fontSize=default;
+珀汐湾的清晨没有都市的喧嚣，只有这片辽阔与安宁。 -fontSize=default;
+我:这让人很难起床啊... -fontSize=default;
+:我懒懒的打了一个哈欠，试图脱离被窝的泥沼 -fontSize=default;
+:...失败了 -fontSize=default;
+:...反正工作时间不是固定的嘛...早些晚些都没关系的... -fontSize=default;
+changeBg:none;
+:赖了一会床，也该上班了 -fontSize=default;
+bgm:none;
+changeScene:第二章/day2/1.txt -when=yn==6;
+changeScene:第二章/day2/2.txt -when=lt==5;

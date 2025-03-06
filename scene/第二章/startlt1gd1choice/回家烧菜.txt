@@ -1,0 +1,5 @@
+changeBg:coffee_shop_night.jpg -next;
+:咕噜咕噜... -gulu.mp3 -fontSize=default -id;
+:家里的菜还有很多没吃完，现在应该回家做饭了 -fontSize=default;
+既然家里还有很多食材的话，那不如？ -灵感.WAV -fontSize=default;
+choose:请莱特吃饭:第二章/startlt1gd1choice/回家烧菜choice/请莱特吃饭.txt|请盖德吃饭:第二章/startlt1gd1choice/回家烧菜choice/请莱特吃饭.txt|请盖德吃饭:第二章/startyn3choice/回家吃饭yn3lt1choice/邀请盖德yn3lt1.txt;

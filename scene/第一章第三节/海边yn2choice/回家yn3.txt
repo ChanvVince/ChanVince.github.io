@@ -1,0 +1,15 @@
+changeBg:restroom_night.jpg;
+:到家躺在床上，我的大脑似乎不听使唤的乱想 -fontSize=default;
+:我打开手机查找着有关自闭症的相关资料 -dz.mp3 -fontSize=default;
+:自闭症，也叫孤独症，通常在孩子小时候就能发现。他们可能不太会用眼神和别人交流，也不太擅长用语言表达自己。 -fontSize=default;
+:他们不是不想和世界交流，而是有自己的方式 -fontSize=default;
+intro:自闭症不是一种“病”，而是一种大脑发育的不同方式。他们虽然和普通人有些不同，但并不意味着他们没有价值。他们可能拥有超强的记忆力、专注力或艺术天赋，只是他们的表达方式和我们不太一样。理解、接纳和包容，是我们能给予“星星的孩子”最好的礼物。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000 -hold;
+:在我逐渐了解这个特殊的群体之后，我开始慢慢理解伊诺的用心 -fontSize=default;
+:不过眼下自己的问题还需要解决啊... -fontSize=default;
+:既然房子需要整修这么久，其实现在有一份工作来缓解经济压力正好 -fontSize=default;
+:最后还是动心了吗，那就明天去咖啡馆再和盖德商量一下吧 -fontSize=default;
+:定好了闹铃我便沉浸在梦乡中 -fontSize=default;
+changeBg:restroom_night_sleep4.jpg -next;
+:在梦中，我和咖啡馆里面的各个成员打成一片，那天，大家都很开心 -fontSize=default;
+intro:好扯|梦终归是梦吧|....... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+callScene:第二章/startyn3.txt

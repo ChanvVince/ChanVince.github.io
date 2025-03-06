@@ -1,0 +1,18 @@
+changeBg:coffee_shop_morning.jpg -next;
+:我把视频发布在社交媒体上，标题赫然写着“嗅觉字典·用心呈现” -fontSize=default;
+:希望可以获得更多关注度吧 -fontSize=default;
+:发布完后，我决定先到咖啡馆后院走走，呼吸一下清新的空气，顺便看看花草是否也因节日装饰而显得格外生动。 -fontSize=default;
+:也许，这样的小憩能让你整理思绪，为下一个创意做好准备。 -fontSize=default;
+changeBg:coffeecargard.jpg;
+:在去后院的路上，我隐约听到盖德的声音 -fontSize=default;
+:似乎在和别人聊天的样子 -fontSize=default;
+changeFigure:gd1.png;
+:走到后院才发现盖德在打电话，盖德的语气很严肃，似乎在商讨一些事情。 -fontSize=default;
+盖德:嗯，好 -fontSize=default;
+盖德:不过需要给我一段时间 -fontSize=default;
+盖德:好...，嗯，那就这样 -fontSize=default;
+:盖德挂断了电话，回头发现了身后的我 -fontSize=default;
+盖德:{name},你怎么在这里 -fontSize=default;
+我:刚更新完账号，出来转转 -fontSize=default;
+:你看出了盖德的状态不对，你决定... -fontSize=default;
+choose:安慰:第二章第二节/startchoice/伊诺的酒choice/嗅觉字典·用心呈现choice/安慰.txt|无视:第二章第二节/startchoice/伊诺的酒choice/嗅觉字典·用心呈现choice/无视.txt;

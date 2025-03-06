@@ -1,0 +1,14 @@
+changeBg:bathroom_night.jpg;
+:我推开了紧靠着走廊尽头的小门。 -fontSize=default;
+我:咦，这里是……卫生间吗？怎么这么暗？ -fontSize=default;
+playEffect:开灯.mp3;
+changeBg:bathroom.jpg;
+:我在墙壁上摸索了一下，找到了灯的开关。|打开灯，我才算是大概看清了卫生间内的大致构造。 -fontSize=default;
+:简单分析了一下，这个卫生间的缺点很多，没有通风，光线很差，放到现在属于是非常差劲的设计了。 -fontSize=default;
+:或许因为没有做斜坡的设计，墙角积着水渍和霉斑。|马桶上也有轻微的发锈，不过应该不影响正常的使用。 -fontSize=default;
+:墙边还残留几瓶过期清洁剂，洗手台边缘有锈迹，马桶边也积了些尘垢。 -fontSize=default;
+:这种东西趁早处理了更好，免得不小心打翻了。 -fontSize=default;
+我:好家伙……又是霉味又是潮味。没有窗户确实闷得厉害。 -fontSize=default;
+我:要是我真想住在这儿，起码得装个排气扇，彻底清洁一遍再说。 -fontSize=default;
+我:……看来这里的翻修工作量也不小啊。 -fontSize=default;
+changeScene:第一章/珀汐湾车站choice/开始探索.txt

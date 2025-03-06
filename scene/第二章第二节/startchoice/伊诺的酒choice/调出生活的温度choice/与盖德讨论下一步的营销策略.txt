@@ -1,0 +1,27 @@
+changeBg:办公室.jpg;
+:夜色渐深，我整理好手头的资料后，悄然走向咖啡馆后室的办公室。 -fontSize=default;
+:推开那扇略显陈旧的木门，我看到盖德正伏在桌前，桌上散落着各类报表和策划书，屏幕上闪烁着未完待续的图表数据。 -fontSize=default;
+:正用那专注的神情阅读着资料，眉宇间虽没有明显忧虑，却透着一种沉甸甸的责任感。 -fontSize=default;
+:我轻轻走到他的桌边 -fontSize=default;
+我:盖德，您有时间吗？我想听听您对接下来营销策略的看法 -fontSize=default;
+:盖德抬起头，目光略带严肃与温和交织|他示意我在对面椅子上就座，然后用手指轻敲桌面，仿佛在整理思绪。 -fontSize=default;
+盖德:目前我们的流水整体稳定，但增长趋势并不明显。 -fontSize=default;
+:他说话时声音平静，却又透出对未来的期许 -fontSize=default;
+盖德:我希望我们能通过新的营销活动，让更多人发现咖啡馆的独特温情，也能吸引1到时候的游客 -fontSize=default;
+盖德:哎... -fontSize=default;
+:盖德长长的叹了一口气，似乎有什么想说的，但马上又把话咽了下去 -fontSize=default;
+盖德:我看了你今天发布的内容，跟我比肯定是好多了|但是我们更需要大家都吃这一套才行 -fontSize=default;
+盖德:如果这次的数据很好，我觉得正是一个很好的起点 -fontSize=default;
+:我看着盖德手中那些数据，心中闪过一丝激动与压力并存的感觉。 -fontSize=default;
+:尽管我们只是雇佣关系，但我从这几天他的行为看出，他对这家咖啡馆倾注了太多心血。 -fontSize=default;
+我:也许我们可以用真实细腻的画面和故事，去打动观众，传递那份属于这里的温暖 -fontSize=default;
+我:我觉得在这里工作的大家都是真正热爱这份工作的，所以我相信，他们的态度和店里的服务质量可以让这里好起来 -fontSize=default;
+:盖德眼中闪过一抹认可，微微点头 -fontSize=default;
+盖德:正是我的意思。我们要用最朴实的方式，把这里的一点一滴都呈现出来，让人们感受到真正的生活温度。 -fontSize=default;
+:他顿了顿，眉宇间又透露出一丝坚定 -fontSize=default;
+:我相信你的创意能给咖啡馆带来新的生机。 -fontSize=default;
+:听着他那略带疲惫但满含期待的语气，我心中涌起一股责任感与决心。 -fontSize=default;
+:谈话结束后，我站起身，与盖德握了握手，心中暗暗发誓要全力以赴，为咖啡馆谋出一片新天地。 -fontSize=default;
+changeBg:办公室窗户.jpg;
+:走出办公室时，我望向窗外那深邃的夜色，内心既紧张又充满期待。 -fontSize=default;
+setVar:gd=7
