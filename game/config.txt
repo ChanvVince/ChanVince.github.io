@@ -1,0 +1,7 @@
+Game_name:coastcafe;
+Game_key:4bb2d76582e3844;
+Title_img:WebGAL_New_Enter_Image.png;
+Title_bgm:bg.WAV;
+Textbox_theme:imss;
+Package_name:com.coastcafechanvince06;
+Description:;
